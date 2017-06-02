@@ -1,4 +1,2 @@
-# TTSH-Bots
-TTSH bot friends live here
-
-Am following the newbie guide so here's a line of stuff.
+# A Repository
+Keeping TTSH bot files but only for archive; refer to the TTSH organisational repository for the live stuff.
